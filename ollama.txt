@@ -1,0 +1,4 @@
+ollama ls
+
+ollama pull deepseek-r1:1.5b
+
