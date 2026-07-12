@@ -1,4 +1,3 @@
-
 # 🚀 Generative AI - From Basics to Advanced
 
 A comprehensive repository for learning **Generative AI**, **Large Language Models (LLMs)**, **Prompt Engineering**, **AI Application Development**, and **Interview Preparation**.
@@ -139,6 +138,12 @@ Generative-AI/
 
 ---
 
+# 📝Blogs
+
+* [What Is the AI Agent Loop? The Core Architecture Behind Autonomous AI Systems](https://blogs.oracle.com/developers/what-is-the-ai-agent-loop-the-core-architecture-behind-autonomous-ai-systems?)
+
+
+
 # 🚀 Projects (Coming Soon)
 
 Some projects that will be added to this repository:
@@ -206,6 +211,7 @@ If you'd like to contribute:
 4. Submit a Pull Request.
 
 ---
+
 
 # ⭐ Support
 
