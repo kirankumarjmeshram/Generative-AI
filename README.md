@@ -141,8 +141,7 @@ Generative-AI/
 # 📝Blogs
 
 * [What Is the AI Agent Loop? The Core Architecture Behind Autonomous AI Systems](https://blogs.oracle.com/developers/what-is-the-ai-agent-loop-the-core-architecture-behind-autonomous-ai-systems?)
-
-
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 # 🚀 Projects (Coming Soon)
 
@@ -211,7 +210,6 @@ If you'd like to contribute:
 4. Submit a Pull Request.
 
 ---
-
 
 # ⭐ Support
 
