@@ -150,20 +150,6 @@ The Office Agent combines all responses into one coordinated plan before ending 
 
 ---
 
-## Future Improvements
-
-- Add Human-in-the-Loop approval
-- Integrate Google Maps APIs
-- Add traffic simulation
-- Introduce tool calling
-- Add memory
-- Support dynamic task assignment
-- Replace Round Robin with SelectorGroupChat
-- Integrate MCP tools
-- Add RAG for contextual planning
-
----
-
 ## Technologies Used
 
 - Python
